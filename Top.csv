@@ -1,0 +1,190 @@
+﻿,X,name,gender,ethnicity,quality,forward,city,jobs,experience,honors,volunteer,military,gaps,school,email,computer,special,college,minimum,equal,wanted,requirements,reqexp,reqcomm,reqeduc,reqcomp,reqorg,industry
+232,232,Tanisha,female,afam,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,no,yes,1,no,office support,yes,yes,no,no,no,no,business/personal services
+251,251,Allison,female,cauc,high,0,chicago,4,16,no,no,no,no,no,yes,yes,no,yes,3,no,secretary,yes,yes,yes,yes,yes,no,unknown
+310,310,Tamika,female,afam,high,0,chicago,4,21,no,yes,no,yes,no,yes,yes,yes,no,2,no,secretary,yes,yes,no,no,yes,no,trade
+322,322,Kristen,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,none,no,secretary,yes,no,no,yes,yes,no,unknown
+344,344,Carrie,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,none,no,secretary,no,no,no,no,no,no,unknown
+379,379,Emily,female,cauc,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,secretary,yes,no,yes,no,no,no,unknown
+386,386,Tyrone,male,afam,high,0,boston,4,20,no,yes,no,no,no,no,no,no,yes,some,yes,retail sales,yes,yes,no,yes,yes,no,manufacturing
+389,389,Jay,male,cauc,high,1,boston,4,20,no,yes,no,no,no,no,no,no,yes,none,yes,retail sales,no,no,no,no,no,no,transport/communication
+411,411,Jill,female,cauc,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,health/education/social services
+412,412,Tamika,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,health/education/social services
+414,414,Emily,female,cauc,high,1,boston,4,20,no,yes,no,no,no,no,no,no,yes,none,no,retail sales,no,no,no,no,no,no,trade
+419,419,Sarah,female,cauc,high,0,boston,4,18,no,yes,no,no,no,yes,no,no,no,none,no,secretary,no,no,no,no,no,no,unknown
+436,436,Tanisha,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,business/personal services
+457,457,Carrie,female,cauc,high,0,chicago,3,21,no,yes,no,no,yes,yes,yes,no,no,3,yes,secretary,yes,yes,no,yes,yes,no,finance/insurance/real estate
+459,459,Keisha,female,afam,high,0,chicago,3,23,no,yes,yes,no,yes,yes,yes,no,no,3,yes,secretary,yes,yes,no,yes,yes,no,finance/insurance/real estate
+473,473,Emily,female,cauc,low,1,chicago,4,21,no,no,no,yes,yes,no,yes,no,yes,5,no,supervisor,yes,yes,no,no,yes,no,finance/insurance/real estate
+475,475,Latonya,female,afam,high,1,chicago,3,20,no,no,no,no,yes,yes,yes,no,no,5,no,supervisor,yes,yes,no,no,yes,no,finance/insurance/real estate
+476,476,Sarah,female,cauc,high,1,chicago,4,21,no,yes,no,yes,no,yes,yes,yes,no,5,no,supervisor,yes,yes,no,no,yes,no,finance/insurance/real estate
+574,574,Ebony,female,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,2,yes,manager,yes,yes,no,no,no,no,trade
+575,575,Jamal,male,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,2,yes,manager,yes,yes,no,no,no,no,trade
+577,577,Ebony,female,afam,high,1,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,office support,yes,no,no,no,yes,no,health/education/social services
+602,602,Brett,male,cauc,high,0,boston,4,23,yes,yes,no,yes,yes,yes,yes,no,yes,none,no,manager,no,no,no,no,no,no,business/personal services
+604,604,Tanisha,female,afam,high,0,boston,4,18,no,yes,yes,yes,no,yes,yes,no,no,none,no,manager,no,no,no,no,no,no,business/personal services
+668,668,Lakisha,female,afam,high,0,chicago,4,21,no,yes,no,yes,no,yes,yes,no,no,none,yes,supervisor,yes,no,no,no,yes,no,manufacturing
+681,681,Meredith,female,cauc,high,0,chicago,4,21,no,yes,no,yes,no,yes,yes,yes,no,none,yes,supervisor,yes,no,no,no,no,no,trade
+683,683,Allison,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,none,no,supervisor,yes,no,no,no,yes,no,business/personal services
+731,731,Ebony,female,afam,high,0,boston,5,26,yes,yes,no,yes,no,yes,yes,yes,no,some,yes,supervisor,yes,yes,no,yes,yes,no,health/education/social services
+738,738,Tanisha,female,afam,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,some,no,office support,yes,yes,no,no,no,no,business/personal services
+741,741,Jay,male,cauc,low,0,boston,6,18,no,no,no,no,no,no,no,no,yes,none,no,manager,yes,no,no,no,yes,no,manufacturing
+742,742,Latoya,female,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,none,no,manager,yes,no,no,no,yes,no,manufacturing
+750,750,Lakisha,female,afam,high,0,chicago,4,21,no,yes,no,yes,no,yes,yes,yes,no,3,yes,other,yes,yes,no,no,no,no,health/education/social services
+752,752,Laurie,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,3,yes,other,yes,yes,no,no,no,no,health/education/social services
+773,773,Allison,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,3,yes,secretary,yes,yes,no,no,no,no,finance/insurance/real estate
+774,774,Kenya,female,afam,high,0,chicago,4,17,no,yes,no,yes,no,yes,yes,yes,no,3,yes,secretary,yes,yes,no,no,no,no,finance/insurance/real estate
+793,793,Latonya,female,afam,low,0,chicago,4,15,no,no,no,yes,yes,no,yes,yes,yes,none,no,secretary,yes,no,no,no,yes,no,unknown
+810,810,Jill,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,3,no,secretary,yes,yes,no,no,no,no,business/personal services
+818,818,Ebony,female,afam,low,0,chicago,4,16,no,no,no,no,yes,no,yes,no,yes,none,yes,supervisor,yes,no,no,no,no,no,health/education/social services
+819,819,Meredith,female,cauc,high,0,chicago,4,21,no,yes,no,yes,no,yes,yes,yes,no,none,yes,supervisor,yes,no,no,no,no,no,health/education/social services
+820,820,Tamika,female,afam,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,none,yes,supervisor,yes,no,no,no,no,no,health/education/social services
+821,821,Kristen,female,cauc,high,1,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,none,no,secretary,yes,no,no,no,yes,no,finance/insurance/real estate
+861,861,Allison,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,office support,yes,no,no,no,yes,no,finance/insurance/real estate
+868,868,Tamika,female,afam,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,secretary,yes,no,no,no,no,no,business/personal services
+871,871,Emily,female,cauc,high,0,boston,7,18,no,yes,no,yes,no,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,unknown
+875,875,Laurie,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,supervisor,yes,no,no,no,yes,no,health/education/social services
+901,901,Jill,female,cauc,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,no,yes,none,no,office support,yes,no,no,no,yes,no,business/personal services
+906,906,Tanisha,female,afam,low,0,chicago,4,15,no,no,no,yes,yes,no,yes,yes,yes,none,no,office support,yes,no,yes,no,yes,no,business/personal services
+925,925,Sarah,female,cauc,high,1,chicago,4,21,no,no,no,yes,yes,yes,yes,yes,yes,2,yes,secretary,yes,yes,yes,no,yes,no,finance/insurance/real estate
+933,933,Meredith,female,cauc,low,0,chicago,4,25,no,no,no,yes,yes,no,yes,no,yes,none,no,supervisor,yes,no,no,no,yes,no,unknown
+976,976,Tamika,female,afam,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,none,no,secretary,no,no,no,no,no,no,unknown
+983,983,Ebony,female,afam,high,0,chicago,3,21,no,yes,no,yes,yes,yes,yes,no,no,none,no,secretary,yes,no,no,no,yes,no,trade
+1002,1002,Brett,male,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,some,yes,manager,yes,yes,no,no,no,no,trade
+1022,1022,Leroy,male,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,none,no,manager,no,no,no,no,no,no,manufacturing
+1028,1028,Neil,male,cauc,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,some,yes,manager,yes,yes,no,no,no,no,trade
+1030,1030,Neil,male,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,none,no,manager,no,no,no,no,no,no,manufacturing
+1039,1039,Allison,female,cauc,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,health/education/social services
+1041,1041,Latonya,female,afam,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,health/education/social services
+1043,1043,Jill,female,cauc,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,finance/insurance/real estate
+1046,1046,Tamika,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,finance/insurance/real estate
+1056,1056,Ebony,female,afam,low,0,chicago,4,15,no,no,no,yes,yes,no,yes,yes,yes,5,yes,secretary,yes,yes,no,no,yes,no,finance/insurance/real estate
+1068,1068,Anne,female,cauc,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,no,yes,1,no,manager,yes,yes,no,no,no,yes,business/personal services
+1130,1130,Laurie,female,cauc,high,0,chicago,4,15,no,no,no,yes,yes,yes,yes,yes,yes,none,yes,secretary,yes,no,no,no,yes,no,trade
+1145,1145,Jay,male,cauc,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,none,no,manager,no,no,no,no,no,no,unknown
+1149,1149,Kristen,female,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,none,no,manager,no,no,no,no,no,no,unknown
+1169,1169,Kristen,female,cauc,high,0,boston,6,16,no,yes,no,yes,yes,yes,yes,yes,no,none,no,secretary,no,no,no,no,no,no,health/education/social services
+1170,1170,Tanisha,female,afam,high,0,boston,5,26,yes,yes,no,yes,no,yes,yes,yes,no,none,no,secretary,no,no,no,no,no,no,health/education/social services
+1172,1172,Emily,female,cauc,high,1,boston,5,18,no,yes,no,no,no,yes,no,no,no,none,no,secretary,no,no,no,no,no,no,manufacturing
+1184,1184,Kristen,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,some,no,secretary,yes,yes,no,no,no,no,business/personal services
+1186,1186,Tanisha,female,afam,high,0,boston,6,16,no,yes,no,yes,yes,yes,yes,yes,no,some,no,secretary,yes,yes,no,no,no,no,business/personal services
+1210,1210,Kenya,female,afam,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,no,yes,some,no,office support,yes,yes,no,no,yes,yes,business/personal services
+1211,1211,Allison,female,cauc,low,0,chicago,3,19,no,yes,no,yes,yes,no,yes,no,no,none,no,secretary,yes,no,no,no,yes,yes,health/education/social services
+1212,1212,Kristen,female,cauc,high,1,chicago,5,19,no,yes,no,yes,yes,yes,yes,no,no,none,no,secretary,yes,no,no,no,yes,yes,health/education/social services
+1213,1213,Lakisha,female,afam,low,1,chicago,4,19,no,yes,no,yes,no,no,yes,no,yes,none,no,secretary,yes,no,no,no,yes,yes,health/education/social services
+1214,1214,Tamika,female,afam,high,1,chicago,5,22,no,yes,no,yes,yes,yes,yes,no,yes,none,no,secretary,yes,no,no,no,yes,yes,health/education/social services
+1241,1241,Carrie,female,cauc,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,no,yes,3,yes,retail sales,yes,yes,no,yes,yes,no,business/personal services
+1249,1249,Allison,female,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,3,yes,manager,yes,yes,no,yes,no,no,business/personal services
+1255,1255,Darnell,male,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,3,yes,manager,yes,yes,no,yes,no,no,business/personal services
+1261,1261,Jermaine,male,afam,high,0,boston,4,20,no,yes,no,no,no,no,no,no,yes,none,no,other,yes,no,no,no,no,no,trade
+1287,1287,Emily,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,secretary,yes,no,no,no,no,no,business/personal services
+1289,1289,Anne,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,supervisor,yes,no,no,no,yes,no,business/personal services
+1301,1301,Anne,female,cauc,high,1,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,transport/communication
+1303,1303,Kenya,female,afam,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,secretary,yes,no,no,no,yes,no,transport/communication
+1305,1305,Ebony,female,afam,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,office support,yes,no,no,no,yes,no,business/personal services
+1306,1306,Emily,female,cauc,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,office support,yes,no,no,no,yes,no,business/personal services
+1384,1384,Geoffrey,male,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,some,yes,other,yes,yes,no,no,no,no,unknown
+1396,1396,Latoya,female,afam,high,0,boston,4,20,no,yes,no,no,no,no,no,no,yes,none,yes,retail sales,yes,no,no,no,no,no,trade
+1397,1397,Leroy,male,afam,high,0,boston,4,20,no,yes,no,no,no,no,no,no,yes,none,no,other,no,no,no,no,no,no,manufacturing
+1401,1401,Rasheed,male,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,some,yes,other,yes,yes,no,no,no,no,unknown
+1404,1404,Tremayne,male,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,some,no,manager,yes,yes,no,no,no,no,unknown
+1406,1406,Tyrone,male,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,some,no,manager,yes,yes,no,no,no,no,unknown
+1411,1411,Jill,female,cauc,high,1,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,office support,yes,no,no,no,yes,no,manufacturing
+1416,1416,Ebony,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,yes,secretary,yes,no,no,no,yes,no,health/education/social services
+1419,1419,Allison,female,cauc,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,yes,secretary,yes,no,no,no,yes,no,health/education/social services
+1432,1432,Anne,female,cauc,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,business/personal services
+1438,1438,Latoya,female,afam,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,secretary,no,no,no,no,no,no,business/personal services
+1447,1447,Jill,female,cauc,low,1,boston,3,20,yes,no,no,yes,no,no,no,no,yes,none,no,retail sales,no,no,no,no,no,no,unknown
+1462,1462,Emily,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,yes,no,none,no,office support,yes,no,yes,no,yes,yes,health/education/social services
+1469,1469,Anne,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,some,no,office support,yes,yes,no,no,no,no,health/education/social services
+1470,1470,Lakisha,female,afam,low,0,chicago,4,16,no,no,no,yes,yes,no,yes,no,yes,some,no,office support,yes,yes,no,no,no,no,health/education/social services
+1472,1472,Meredith,female,cauc,low,0,chicago,4,15,no,no,no,yes,yes,no,yes,yes,yes,some,no,office support,yes,yes,no,no,no,no,health/education/social services
+1520,1520,Brad,male,cauc,low,1,boston,6,21,yes,no,yes,yes,no,yes,yes,yes,yes,none,no,other,yes,no,no,yes,no,no,transport/communication
+1531,1531,Lakisha,female,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,none,no,manager,no,no,no,no,no,no,transport/communication
+1542,1542,Tremayne,male,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,none,no,manager,no,no,no,no,no,no,transport/communication
+1548,1548,Sarah,female,cauc,high,1,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,unknown
+1549,1549,Aisha,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,secretary,no,no,no,no,no,no,health/education/social services
+1560,1560,Jill,female,cauc,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,health/education/social services
+1564,1564,Tamika,female,afam,high,1,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,secretary,yes,no,no,no,yes,no,finance/insurance/real estate
+1568,1568,Latonya,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,yes,secretary,no,no,no,no,no,no,health/education/social services
+1571,1571,Latoya,female,afam,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,unknown
+1576,1576,Latoya,female,afam,high,0,boston,5,26,yes,yes,no,yes,no,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,finance/insurance/real estate
+1580,1580,Sarah,female,cauc,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,finance/insurance/real estate
+1597,1597,Allison,female,cauc,low,0,chicago,3,20,no,no,no,yes,no,no,yes,no,yes,some,no,office support,yes,yes,no,no,yes,no,unknown
+1599,1599,Meredith,female,cauc,high,0,chicago,3,20,no,yes,no,no,yes,yes,yes,no,yes,some,no,office support,yes,yes,no,no,yes,no,unknown
+1600,1600,Tamika,female,afam,high,0,chicago,3,21,no,yes,no,no,yes,yes,yes,no,no,some,no,office support,yes,yes,no,no,yes,no,unknown
+1612,1612,Sarah,female,cauc,high,0,chicago,3,21,no,yes,no,yes,yes,yes,yes,yes,no,none,yes,office support,yes,no,yes,no,yes,no,business/personal services
+1618,1618,Kristen,female,cauc,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,yes,yes,none,yes,office support,yes,no,yes,no,yes,yes,manufacturing
+1685,1685,Tamika,female,afam,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,supervisor,no,no,no,no,no,no,business/personal services
+1689,1689,Emily,female,cauc,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,secretary,no,no,no,no,no,no,business/personal services
+1691,1691,Allison,female,cauc,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,1,no,office support,yes,yes,no,no,yes,no,health/education/social services
+1694,1694,Lakisha,female,afam,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,1,no,office support,yes,yes,no,no,yes,no,health/education/social services
+1696,1696,Latoya,female,afam,high,1,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,unknown
+1701,1701,Jill,female,cauc,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,yes,secretary,no,no,no,no,no,no,unknown
+1702,1702,Latoya,female,afam,high,1,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,yes,secretary,no,no,no,no,no,no,unknown
+1704,1704,Emily,female,cauc,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,unknown
+1709,1709,Sarah,female,cauc,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,business/personal services
+1712,1712,Jill,female,cauc,high,1,boston,5,19,no,yes,no,no,no,yes,no,no,no,some,no,secretary,yes,yes,no,no,yes,no,trade
+1714,1714,Tanisha,female,afam,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,some,no,secretary,yes,yes,no,no,yes,no,trade
+1718,1718,Lakisha,female,afam,high,1,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,secretary,no,no,no,no,no,no,unknown
+1755,1755,Latoya,female,afam,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,no,yes,none,no,secretary,yes,no,no,no,yes,no,trade
+1776,1776,Kenya,female,afam,high,0,chicago,3,18,no,yes,no,yes,yes,yes,yes,no,no,3,yes,supervisor,yes,yes,yes,no,yes,no,health/education/social services
+1805,1805,Latoya,female,afam,high,0,chicago,5,44,no,yes,no,yes,yes,yes,yes,no,yes,3,yes,secretary,yes,yes,no,yes,yes,no,health/education/social services
+1842,1842,Tanisha,female,afam,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,no,no,none,no,office support,yes,no,no,no,yes,no,business/personal services
+1880,1880,Aisha,female,afam,high,0,chicago,4,20,no,no,no,yes,no,yes,yes,yes,yes,none,no,manager,no,no,no,no,no,no,health/education/social services
+1881,1881,Emily,female,cauc,low,0,chicago,3,17,no,no,no,yes,no,no,yes,yes,no,none,no,manager,no,no,no,no,no,no,health/education/social services
+1884,1884,Keisha,female,afam,low,0,chicago,5,15,no,no,no,yes,no,no,yes,yes,yes,none,no,manager,no,no,no,no,no,no,health/education/social services
+1898,1898,Carrie,female,cauc,high,0,boston,4,20,no,yes,no,no,no,no,no,no,yes,3,no,retail sales,yes,yes,no,no,no,no,finance/insurance/real estate
+1944,1944,Tanisha,female,afam,high,0,chicago,3,22,no,no,no,no,yes,yes,yes,no,no,none,no,office support,yes,no,yes,no,no,no,manufacturing
+1945,1945,Anne,female,cauc,high,0,chicago,4,21,no,no,no,yes,yes,yes,yes,yes,yes,none,no,secretary,yes,no,yes,no,yes,no,health/education/social services
+1956,1956,Laurie,female,cauc,high,0,chicago,4,15,no,yes,no,yes,no,yes,yes,yes,no,none,no,office support,yes,no,yes,no,yes,no,business/personal services
+1988,1988,Brendan,male,cauc,high,0,boston,4,20,no,yes,no,no,no,no,no,no,yes,some,no,other,yes,yes,no,no,no,no,trade
+2014,2014,Kristen,female,cauc,high,1,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,finance/insurance/real estate
+2025,2025,Ebony,female,afam,low,0,chicago,4,15,no,no,no,yes,yes,no,yes,yes,yes,none,no,office support,yes,no,yes,no,no,no,health/education/social services
+2026,2026,Emily,female,cauc,high,0,chicago,3,16,no,no,no,no,yes,yes,yes,yes,no,none,no,office support,yes,no,yes,no,no,no,health/education/social services
+2027,2027,Sarah,female,cauc,low,1,chicago,4,16,no,no,no,yes,yes,no,yes,yes,yes,none,no,office support,yes,no,yes,no,no,no,health/education/social services
+2028,2028,Tamika,female,afam,high,0,chicago,3,15,no,no,no,no,yes,yes,yes,yes,yes,none,no,office support,yes,no,yes,no,no,no,health/education/social services
+2032,2032,Tanisha,female,afam,high,0,chicago,3,21,no,yes,no,yes,yes,yes,yes,no,no,none,no,secretary,yes,no,yes,no,no,no,trade
+2038,2038,Latonya,female,afam,high,0,chicago,4,17,no,yes,no,yes,no,yes,yes,yes,no,3,no,office support,yes,yes,no,no,yes,no,business/personal services
+2059,2059,Latoya,female,afam,low,0,chicago,4,15,no,no,no,yes,yes,yes,yes,yes,yes,5,no,secretary,yes,yes,yes,no,yes,no,health/education/social services
+2062,2062,Brendan,male,cauc,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,none,no,manager,yes,no,no,no,yes,no,business/personal services
+2079,2079,Neil,male,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,none,no,manager,yes,no,no,no,yes,no,business/personal services
+2094,2094,Lakisha,female,afam,high,1,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,yes,secretary,no,no,no,no,no,no,trade
+2095,2095,Sarah,female,cauc,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,yes,secretary,no,no,no,no,no,no,trade
+2103,2103,Latoya,female,afam,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,yes,secretary,yes,no,no,no,yes,no,health/education/social services
+2104,2104,Meredith,female,cauc,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,yes,secretary,yes,no,no,no,yes,no,health/education/social services
+2106,2106,Allison,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,supervisor,no,no,no,no,no,no,health/education/social services
+2108,2108,Latoya,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,supervisor,no,no,no,no,no,no,health/education/social services
+2109,2109,Emily,female,cauc,low,1,boston,6,20,no,no,no,no,no,no,no,no,yes,some,no,manager,yes,yes,no,no,no,no,unknown
+2110,2110,Latonya,female,afam,low,0,boston,5,26,no,no,no,no,yes,no,no,no,yes,some,no,manager,yes,yes,no,no,no,no,unknown
+2159,2159,Geoffrey,male,cauc,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,none,no,manager,yes,no,yes,no,no,no,business/personal services
+2163,2163,Jamal,male,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,5,yes,manager,yes,yes,no,yes,no,no,manufacturing
+2171,2171,Latonya,female,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,3,yes,manager,yes,yes,no,no,no,no,health/education/social services
+2172,2172,Latonya,female,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,5,yes,manager,yes,yes,no,yes,no,no,manufacturing
+2174,2174,Latoya,female,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,none,no,manager,yes,no,yes,no,no,no,business/personal services
+2184,2184,Rasheed,male,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,3,yes,manager,yes,yes,no,no,no,no,health/education/social services
+2199,2199,Kristen,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,2,no,secretary,yes,yes,no,no,yes,no,health/education/social services
+2202,2202,Keisha,female,afam,high,1,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,office support,yes,no,no,no,yes,no,business/personal services
+2204,2204,Laurie,female,cauc,high,1,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,office support,yes,no,no,no,yes,no,business/personal services
+2205,2205,Allison,female,cauc,high,1,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,office support,yes,no,no,yes,yes,no,finance/insurance/real estate
+2209,2209,Jill,female,cauc,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,supervisor,yes,no,no,no,yes,no,health/education/social services
+2211,2211,Latonya,female,afam,high,1,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,supervisor,yes,no,no,no,yes,no,health/education/social services
+2214,2214,Jill,female,cauc,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,business/personal services
+2215,2215,Latoya,female,afam,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,secretary,yes,no,no,no,yes,no,business/personal services
+2217,2217,Emily,female,cauc,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,business/personal services
+2222,2222,Carrie,female,cauc,high,1,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,yes,no,no,trade
+2233,2233,Allison,female,cauc,low,0,boston,6,20,no,no,no,no,no,no,no,no,yes,none,no,manager,no,no,no,no,no,no,unknown
+2236,2236,Tamika,female,afam,low,0,boston,5,26,no,no,no,no,yes,no,no,no,yes,none,no,manager,no,no,no,no,no,no,unknown
+2275,2275,Darnell,male,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,3,yes,manager,yes,yes,no,no,no,no,trade
+2280,2280,Greg,male,cauc,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,3,yes,manager,yes,yes,no,no,no,no,trade
+2310,2310,Jill,female,cauc,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,office support,no,no,no,no,no,no,health/education/social services
+2316,2316,Tanisha,female,afam,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,supervisor,no,no,no,no,no,no,health/education/social services
+2346,2346,Emily,female,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,none,yes,manager,yes,no,no,no,no,yes,business/personal services
+2349,2349,Jamal,male,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,none,yes,manager,yes,no,no,no,no,yes,business/personal services
+2356,2356,Keisha,female,afam,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,2,yes,manager,yes,yes,no,yes,no,no,manufacturing
+2367,2367,Tamika,female,afam,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,2,yes,manager,yes,yes,no,yes,no,no,manufacturing
+2372,2372,Tamika,female,afam,high,0,boston,4,16,no,no,no,yes,no,yes,yes,yes,no,none,yes,secretary,yes,no,no,no,yes,no,health/education/social services
+2400,2400,Tamika,female,afam,high,0,boston,6,16,no,yes,no,no,yes,yes,yes,yes,no,none,no,office support,yes,no,no,no,yes,no,finance/insurance/real estate
+2402,2402,Kenya,female,afam,high,0,boston,5,26,yes,yes,no,yes,yes,yes,yes,yes,no,none,no,secretary,yes,no,no,no,yes,no,manufacturing
+2403,2403,Kristen,female,cauc,high,0,boston,5,19,no,yes,no,no,no,yes,no,no,no,none,no,secretary,yes,no,no,no,yes,no,manufacturing
+2437,2437,Brett,male,cauc,low,0,boston,5,26,no,no,no,no,no,no,no,no,yes,2,no,manager,yes,yes,no,no,no,no,business/personal services
+2442,2442,Greg,male,cauc,high,0,boston,6,18,no,yes,no,no,no,no,yes,no,yes,2,no,manager,yes,yes,no,no,no,no,business/personal services

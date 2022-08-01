@@ -1,0 +1,95 @@
+---
+title: "Final Project"
+author: "Marjete"
+date: "2022-07-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. 
+# This is a final project to show off what you have learned. Select your data set from the list below: http://vincentarelbundock.github.io/Rdatasets/ (click on the csv index for a list). I selected Resume Names https://vincentarelbundock.github.io/Rdatasets/csv/AER/ResumeNames.csv The presentation approach is up to you but it should contain the following:
+
+## 1. Data Exploration: This should include summary statistics, means, medians, quartiles, or any other relevant information about the data set. Please include some conclusions in the R Markdown text.
+```{r ResumeNames}
+
+ResumeNames<- read.csv(file ="https://vincentarelbundock.github.io/Rdatasets/csv/AER/ResumeNames.csv", header = TRUE, sep = ",")
+
+head(ResumeNames)
+summary(ResumeNames)
+```
+```{r}
+jobsmean <- mean(ResumeNames$jobs)
+print(jobsmean)
+jobsmedian <- median(ResumeNames$jobs)
+print(jobsmedian)
+experiencemean <- mean(ResumeNames$experience)
+print(experiencemean)
+experiencemedian <- median(ResumeNames$experience)
+print(experiencemedian)
+experiencequantile <- quantile(ResumeNames$experience)
+print(experiencequantile)
+jobsquantile <- quantile(ResumeNames$jobs)
+print(jobsquantile)
+```
+# Summary of jobs, mean/ average is 3.66, median is 4; summary of experience, mean is 7.8 and median is 6. The data set used a wide variety of experience, between 1 and 44, and a wide range of number of jobs, between 1 and 7. 
+
+##2. Data wrangling: Please perform some basic transformations. They will need to make sense but could include column renaming, creating a subset of the data, replacing values, or creating new columns with derived data.
+
+```{r}
+Top<- data.frame(subset(ResumeNames, experience>= 15 & jobs>= 3))
+names(Top)[names(Top) == 'holes'] <- 'gaps'
+names(Top)[names(Top) == 'call'] <- 'forward'
+
+```
+#Top dataset reflect the top candidates. I also changed the column name of 'holes' to 'gaps' on the Top dataset. Belwo I also wanted to recategorize the character fields into metrics for requirements column, 1 meaning yes.
+
+```{r}
+Top$forward <- as.character(Top$forward)
+Top$forward[Top$forward == "no"] <- "0"
+Top$forward[Top$forward == "yes"] <- "1"
+```
+#I tried to change the values above for if the candidate moved forward, or had a call back, while it updated, it is still a 'chr' not 'int'
+
+##3. Graphics: Please make sure to display at least one scatter plot, box plot and histogram. Don’t be limited to this. Please explore the many other options in R packages such as ggplot2.
+
+You can also embed plots, for example:
+
+```{r 
+plot(pressure)
+```
+```{r}
+
+sapply(df, class)
+```
+```{r}
+hist(ResumeNames$jobs,main = "Jobs Histogram", xlab = "jobs")
+```
+```{r}
+boxplot(Top$experience, main = "Experience", ylab = "Experience")
+```
+```{r}
+ plot(jobs ~ experience, data=Top)
+```
+```{r}
+ plot(jobs ~ experience, data=ResumeNames)
+```
+```
+
+
+```{r}
+str(Top)
+```
+
+#4Meaningful question for analysis: Please state at the beginning a meaningful question for analysis. Use the first three steps and anything else that would be helpful to answer the question you are posing from the data set you chose. Please write a brief conclusion paragraph in R markdown at the end.
+##I feel like I was unable to use this project 'well' to answer a real question I had on this dataset. I initally wanted to look at how much more likely a lower quality candidate is called back compared to a higher quality candidate due to their name sounding white and not african american by looking at the top 50% who were qualified. I was unable to change some characters to integers. I saw a lot of errors whicl trying to work on this including Error: attempt to use zero-length variable name but I feel like something else was the issue (not accidentally highlighted the backticks along with the R code.) The visualization I created means very of significance. I do not believe there was any direct correlation between number of jobs and experience based on this dataset. In retrospect I wish I used another csv data set for this project. However, I did attempt to do this project with another dataset but I still came across roadblocks so I decided to submit this instead and hope for enough points to pass. :)
+```
+#BONUS
+
+
